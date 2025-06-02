@@ -132,13 +132,7 @@ MIT License
 ## Contract Address
 Address: ST221Z6TDTC5E0BYR2V624Q2ST6R0Q71T78WTAX6H
 
+
+
 <img width="1437" alt="Screenshot 2025-06-02 at 2 51 11 PM" src="https://github.com/user-attachments/assets/83a6a636-27ca-40a4-a403-11b7a801eacd" />
-
-
-```
-
----
-
-Let me know if you’d like the README to include **screenshots**, **deployment instructions**, or a **frontend integration guide**!
-```
 
